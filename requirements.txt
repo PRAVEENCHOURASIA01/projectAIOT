@@ -1,0 +1,13 @@
+
+---
+
+## File: requirements.txt
+
+```plaintext
+opencv-python
+pyrealsense2
+ultralytics
+face_recognition
+SpeechRecognition
+pyaudio
+numpy
